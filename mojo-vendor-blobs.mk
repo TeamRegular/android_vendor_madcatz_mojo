@@ -37,6 +37,7 @@ PRODUCT_COPY_FILES += \
     vendor/madcatz/mojo/proprietary/etc/firmware/tegra11x/nvhost_tsec.fw:system/etc/firmware/tegra11x/nvhost_tsec.fw \
     vendor/madcatz/mojo/proprietary/etc/nvcpud.conf:system/etc/nvcpud.conf \
     vendor/madcatz/mojo/proprietary/etc/nvram_43241.txt:system/etc/nvram_43241.txt \
+    vendor/madcatz/mojo/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/madcatz/mojo/proprietary/lib/egl/libEGL_tegra.so:system/lib/egl/libEGL_tegra.so \
     vendor/madcatz/mojo/proprietary/lib/egl/libGLESv1_CM_tegra.so:system/lib/egl/libGLESv1_CM_tegra.so \
     vendor/madcatz/mojo/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
@@ -45,6 +46,7 @@ PRODUCT_COPY_FILES += \
     vendor/madcatz/mojo/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
     vendor/madcatz/mojo/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
     vendor/madcatz/mojo/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
+    vendor/madcatz/mojo/proprietary/lib/libatv_uinputbridge.so:system/lib/libatv_uinputbridge.so \
     vendor/madcatz/mojo/proprietary/lib/libaudioavp.so:system/lib/libaudioavp.so \
     vendor/madcatz/mojo/proprietary/lib/libcgdrv.so:system/lib/libcgdrv.so \
     vendor/madcatz/mojo/proprietary/lib/libcplconnectclient.so:system/lib/libcplconnectclient.so \
